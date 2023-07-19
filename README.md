@@ -2,7 +2,6 @@
 
 <div align="center"> 
 <br/>
-![header](https://capsule-render.vercel.app/api?type=Waving&text=qwertyWing&textcolor=FFFFFF)
 <br/>
 <br/>
   
